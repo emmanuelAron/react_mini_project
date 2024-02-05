@@ -1,9 +1,9 @@
 // src/App.jsx
 import './App.css';
-import Navbar from './Navbar.js'
-import 
+import Navbar from './Navbar.jsx'
+//import 
 
-import discord from './assets/discord-logo-white.png';
+
 
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
     <div className="App">
      <Navbar />
          
-      <img src={discord} alt="aaa" /> 
+      
     </div>
   );
 }
